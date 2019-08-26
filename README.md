@@ -8,5 +8,5 @@
 
 1. Tomato3D.cpp
 https://www.acmicpc.net/problem/7569
-위 문제를 풀어 올린 것이다. 자세한 것은 링크를 통해 들어가서 살펴볼 것을 권장한다.
+
 
