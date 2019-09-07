@@ -14,3 +14,9 @@ https://www.acmicpc.net/problem/2178
 
 3. Searching.cpp
 https://www.acmicpc.net/problem/1697
+
+4. Kakao_1.cpp
+카카오 공채 코딩테스트 1번 문제 
+
+5. Kakao_2.cpp
+카카오 공채 코딩테스트 2번 문제
