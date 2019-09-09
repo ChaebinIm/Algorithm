@@ -20,3 +20,6 @@ https://www.acmicpc.net/problem/1697
 
 5. Kakao_2.cpp
 카카오 공채 코딩테스트 2번 문제
+
+6. MovingByBreakingWall.cpp
+https://www.acmicpc.net/problem/2206
