@@ -23,3 +23,6 @@ https://www.acmicpc.net/problem/1697
 
 6. MovingByBreakingWall.cpp
 https://www.acmicpc.net/problem/2206
+
+7. N&M_1.cpp
+https://www.acmicpc.net/problem/15649
