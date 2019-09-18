@@ -26,3 +26,6 @@ https://www.acmicpc.net/problem/2206
 
 7. N&M_1.cpp
 https://www.acmicpc.net/problem/15649
+
+8. N&M_2.cpp
+https://www.acmicpc.net/problem/15650
