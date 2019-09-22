@@ -32,3 +32,6 @@ https://www.acmicpc.net/problem/15650
 
 9. FibonacciFunction.cpp
 https://www.acmicpc.net/problem/1003
+
+10. N&M_3.cpp
+https://www.acmicpc.net/problem/15651
