@@ -16,6 +16,8 @@ vector<pair<int,int>> v; // {{시작, 끝}, 시간} 형태로 입력받음.
 bool cmp(const pair<int,int> &p1, const pair<int,int> &p2){
     if(p1.second < p2.second){
         return true;
+    }else if(p1.second == p2.second){
+        return p1.first < p2.first;
     }else{
         return false;
     }
