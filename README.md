@@ -38,3 +38,12 @@ https://www.acmicpc.net/problem/1904
 
 11. MeetingRoom.cpp
 https://www.acmicpc.net/problem/1931
+
+12. CleaningMachine.cpp
+https://www.acmicpc.net/problem/14503
+
+13. NHN_1.cpp
+2019 하반기 NHN 코딩테스트 1번
+
+14. NHN_2.cpp
+2019 하반기 NHN 코딩테스트 2번
