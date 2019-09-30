@@ -50,3 +50,6 @@ https://www.acmicpc.net/problem/14503
 
 15. InsertOperator.cpp
 https://www.acmicpc.net/problem/14888
+
+16. 2DArrayAndOperation.cpp
+https://www.acmicpc.net/problem/17140
