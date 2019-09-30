@@ -47,3 +47,6 @@ https://www.acmicpc.net/problem/14503
 
 14. NHN_2.cpp
 2019 하반기 NHN 코딩테스트 2번
+
+15. InsertOperator.cpp
+https://www.acmicpc.net/problem/14888
