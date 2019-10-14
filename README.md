@@ -56,3 +56,6 @@ https://www.acmicpc.net/problem/17140
 
 17. SlopeWay.cpp
 https://www.acmicpc.net/problem/14890
+
+18. ToothedWheel.cpp
+https://www.acmicpc.net/problem/14891
