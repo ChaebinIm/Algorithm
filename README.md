@@ -65,3 +65,6 @@ https://www.acmicpc.net/problem/16637
 
 20. MovingPipe.cpp
 https://www.acmicpc.net/problem/17070
+
+21. Baseball.cpp
+https://www.acmicpc.net/problem/17281
