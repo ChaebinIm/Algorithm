@@ -59,3 +59,9 @@ https://www.acmicpc.net/problem/14890
 
 18. ToothedWheel.cpp
 https://www.acmicpc.net/problem/14891
+
+19. Addingincluding.cpp
+https://www.acmicpc.net/problem/16637
+
+20. MovingPipe.cpp
+https://www.acmicpc.net/problem/17070
