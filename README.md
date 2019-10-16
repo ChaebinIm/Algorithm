@@ -80,3 +80,6 @@ https://www.acmicpc.net/problem/17406
 
 25. ColorPaper.cpp
 https://www.acmicpc.net/problem/17136
+
+26. Seeing.cpp
+https://www.acmicpc.net/problem/15683
