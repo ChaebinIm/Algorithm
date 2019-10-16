@@ -78,3 +78,5 @@ https://www.acmicpc.net/problem/17471
 24. TurningArray4.cpp
 https://www.acmicpc.net/problem/17406
 
+25. ColorPaper.cpp
+https://www.acmicpc.net/problem/17136
