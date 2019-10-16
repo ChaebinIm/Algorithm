@@ -71,3 +71,10 @@ https://www.acmicpc.net/problem/17281
 
 22. CastleDefence.cpp
 https://www.acmicpc.net/problem/17135
+
+23. Geremandering.cpp
+https://www.acmicpc.net/problem/17471
+
+24. TurningArray4.cpp
+https://www.acmicpc.net/problem/17406
+
