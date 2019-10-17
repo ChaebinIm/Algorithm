@@ -83,3 +83,6 @@ https://www.acmicpc.net/problem/17136
 
 26. Seeing.cpp
 https://www.acmicpc.net/problem/15683
+
+27. ResearchRoom3.cpp
+https://www.acmicpc.net/problem/17142
