@@ -95,3 +95,6 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5
 
 32. ProtectingFilm.cpp
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu&categoryId=AV5V1SYKAaUDFAWu&categoryType=CODE
+
+33. SmallLifeIsolation.cpp
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl&categoryId=AV597vbqAH0DFAVl&categoryType=CODE
