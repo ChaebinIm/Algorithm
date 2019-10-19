@@ -89,3 +89,6 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5
 
 30. MakingClimbingWay.cpp
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq&categoryId=AV5PoOKKAPIDFAUq&categoryType=CODE
+
+31. DessertCafe.cpp
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu&categoryId=AV5VwAr6APYDFAWu&categoryType=CODE
