@@ -92,3 +92,6 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5
 
 31. DessertCafe.cpp
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu&categoryId=AV5VwAr6APYDFAWu&categoryType=CODE
+
+32. ProtectingFilm.cpp
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu&categoryId=AV5V1SYKAaUDFAWu&categoryType=CODE
