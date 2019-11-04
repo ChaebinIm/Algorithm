@@ -98,3 +98,6 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5
 
 33. SmallLifeIsolation.cpp
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl&categoryId=AV597vbqAH0DFAVl&categoryType=CODE
+
+34. NQueen.cpp
+https://www.acmicpc.net/problem/9663
