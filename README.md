@@ -122,3 +122,6 @@ https://www.acmicpc.net/problem/11047
 
 42. ATM.cpp
 https://www.acmicpc.net/problem/11399
+
+43. Rope.cpp
+https://www.acmicpc.net/problem/2217
