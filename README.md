@@ -119,3 +119,6 @@ https://www.acmicpc.net/problem/9461
 
 41. CoinZero.cpp
 https://www.acmicpc.net/problem/11047
+
+42. ATM.cpp
+https://www.acmicpc.net/problem/11399
