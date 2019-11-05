@@ -101,3 +101,6 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5
 
 34. NQueen.cpp
 https://www.acmicpc.net/problem/9663
+
+35. Factorial.cpp
+https://www.acmicpc.net/problem/10872
