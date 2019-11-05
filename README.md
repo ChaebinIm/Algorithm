@@ -116,3 +116,6 @@ https://www.acmicpc.net/problem/2580
 
 40. Padovan.cpp
 https://www.acmicpc.net/problem/9461
+
+41. coin_zero.cpp
+https://www.acmicpc.net/problem/11047
