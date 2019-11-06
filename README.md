@@ -128,3 +128,6 @@ https://www.acmicpc.net/problem/2217
 
 44. LostContainer.cpp
 https://www.acmicpc.net/problem/1541
+
+45. Editor_Llist.cpp
+https://www.acmicpc.net/problem/1406
